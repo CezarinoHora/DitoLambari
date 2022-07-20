@@ -47,14 +47,14 @@ h1 {
 }
 
 #main {
-    background-color: #FB9902;
+    background-color: #0ed2dd;
     grid-area: main;
     text-align: justify;
     text-justify: inter-word;
 }
 
 #sidebar {
-    background-color: #FB9902;
+    background-color: lightblue;;
     grid-area: sidebar;
     border-right: 4px solid black;
 }
@@ -83,7 +83,7 @@ h1 {
 }
 
 #footer {
-    background-color: #FB9902;
+    background-color: lightblue;
     grid-area: footer;
     display: flex;
     justify-content: center;

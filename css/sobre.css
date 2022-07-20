@@ -51,7 +51,7 @@ h1 {
 }
 
 #main {
-    background-color: #D97A06;
+    background-color: lightblue;
     grid-area: main;
     text-align: justify;
     text-justify: inter-word;
@@ -88,7 +88,7 @@ h1 {
 }
 
 #footer {
-    background-color: #FF802C;
+    background-color: lightblue;
     grid-area: footer;
     display: flex;
     justify-content: center;

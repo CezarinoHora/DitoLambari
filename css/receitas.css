@@ -51,7 +51,7 @@ h1 {
 }
 
 #conteudo4 {
-    background-color: #FB9902;
+    background-color: lightblue;
     grid-area: conteudo4;
     border-bottom: 4px solid black;
     border-top: 4px solid black;
@@ -59,7 +59,7 @@ h1 {
 }
 
 #conteudo5 {
-    background-color: #FB9902;
+    background-color: lightblue;
     grid-area: conteudo5;
     border-bottom: 4px solid black;
     border-top: 4px solid black;
@@ -67,7 +67,7 @@ h1 {
 }
 
 #conteudo6 {
-    background-color: #FB9902;
+    background-color: lightblue;
     grid-area: conteudo6;
     border-bottom: 4px solid black;
     border-top: 4px solid black;
@@ -75,7 +75,7 @@ h1 {
 }
 
 #sidebar {
-    background-color: #FB9902;
+    background-color: lightblue;
     grid-area: sidebar;
     border-right: 4px solid black;
     border-bottom: 4px solid black;
